@@ -1,0 +1,37 @@
+.heading{
+    font-size:48px;
+    font-family:Penultimate;
+    background-color:rgb(21,128,0);
+    width:900px;
+    border-radius:40px;
+    color:white;
+}
+
+.note{
+    color:black;
+}
+
+.start{
+    background-color:rgb(21,128,0);
+    color:white;
+}
+
+.foot{
+    position:fixed;
+    background-color:gray;
+    bottom:0;
+    width:100%;
+    font-size:30px;
+    font-family:Penultimate;
+    color:white;
+    text-align:center;
+    text-shadow:5px 5px 5px rgb(17, 17, 17);
+}
+
+body{
+    background-color: green;
+}
+
+.there{
+    color:black;
+}
